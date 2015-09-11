@@ -1,5 +1,4 @@
 ---
-- test
 - name: r1
   box: ubuntu/trusty64
   mem: 512
